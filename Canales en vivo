@@ -1,0 +1,8 @@
+
+#EXTM3U
+
+#extinf:-1, Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+#extinf:-1,  Anime zone
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
