@@ -6,3 +6,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
 #extinf:-1,  Anime zone
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+#extinf:-1, ABC Jazz
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
